@@ -1,0 +1,43 @@
+              Simulation MetaData:     TBS_Alex_Almeria
+=========================================================================
+
+
+Simulation name : TBS_Alex_Almeria
+
+Paths number : 5
+
+Paths coordinates : [(31.25, 29.8800659), (35, 15), (37, 12), (38, 10), (36.4, 0), (36.8299675, -2.47345209)]
+
+Estimated Time Departure : 2024-03-16T14:00:00
+
+Longitude Minimum : [-5]
+
+Longitude Maximum : [31]
+
+Latitude Minimum : [30]
+
+Latitude Maximum : [40]
+
+Distance per Heading : 9
+
+Reduction factor : 0.3
+
+Gain factor : 1.1
+
+Degree Steps : 7
+
+OBC diameter : 63
+
+Math Model Used : 1
+
+Service Speed : 16
+
+Max. Speed : 20
+
+TBS radius : 20
+
+LBP : 250
+
+DWT : 56000
+
+--------------------End of Report----------------------

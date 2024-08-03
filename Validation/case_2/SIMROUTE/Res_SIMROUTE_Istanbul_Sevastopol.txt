@@ -1,0 +1,19 @@
+              SIMROUTE report:     SIMROUTE_Istanbul_Sevastopol
+=========================================================================
+
+Initial Velocity in knots = 19 
+WEN_form = 1 
+Departure:  Node =  28167  --  coordinates  (29.0867,41.3933)
+Departure time (day-month-year hour:min): 0.-s_-Wave 0:00
+Arrival:     Node = 196806  --  coordinates  (33.3367,44.5933)
+Number of nodes: Nx=   877   Ny=   358   Nx*Ny=313966   
+Geodetic Distance (in milles): 267.60
+ 
+========================================================================
+                                        Sailed hours    Sailed milles
+Route Optimized:                           16.27            268.15    
+Route Minimum Distance:                   16.28            267.69    
+Route Minimum Distance (without waves):    14.09            267.69    
+
+========================================================================
+

@@ -1,0 +1,16 @@
+name_Simu = 'SIMROUTE_moussa_et_al_case'
+LonMin =  1.500 
+LonMax =  5.500 
+LatMin = 38.450 
+LatMax = 42.150 
+inc =  1.000 
+nodIni = 29342 
+nodEnd = 36662 
+ARX = ['Waves_0.nc' ,  ] 
+dir_arx = 'storeWaves/'
+time_res = 1 
+t_ini = 0 
+v0 = 16.000 
+WEN_form = 1 
+Lbp = 80 
+DWT = 20000 

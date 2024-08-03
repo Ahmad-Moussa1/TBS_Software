@@ -1,0 +1,33 @@
+              PHASE I report:     TBS_Bergen_Papey
+=========================================================================
+
+1st Check: OBC Diameter is greater than TBS radius && smaller than distance between paths coordinates
+** number of checks equal number of paths 
+** All values must be "OBC Diameter is acceptable"
+
+path 1: OBC Diameter is acceptable
+
+ 2nd Check: Check OBC Diameter (specially Last OBC in each path) is smaller than TBS radius
+** number of checks equal number of OBCs
+** All Values must be "Last OBC Diameter is acceptable"
+
+OBC number 1:  OBC diameter 2nd Check is acceptable
+OBC number 2:  OBC diameter 2nd Check is acceptable
+OBC number 3:  OBC diameter 2nd Check is acceptable
+OBC number 4:  OBC diameter 2nd Check is acceptable
+OBC number 5:  OBC diameter 2nd Check is acceptable
+OBC number 6:  OBC diameter 2nd Check is acceptable
+
+ 3rd Check: OBC coordinates status (is_land OR is_water) 
+** number of checks equal number of OBCs +1 
+** All values of status must be is_water
+
+Latitude      Longitude       Status    
+  60.397        5.200         ['is_water'] 
+  61.286        2.309         ['is_water'] 
+  62.175       -0.666         ['is_water'] 
+  63.062       -3.731         ['is_water'] 
+  63.948       -6.894         ['is_water'] 
+  64.832      -10.160         ['is_water'] 
+  64.593      -14.166         ['is_water'] 
+--------------------End of Report----------------------

@@ -1,0 +1,19 @@
+              SIMROUTE report:     SIMROUTE_Casblanca_Lisbon
+=========================================================================
+
+Initial Velocity in knots = 21 
+WEN_form = 1 
+Departure:  Node =  24344  --  coordinates  (-7.6000,33.6667)
+Departure time (day-month-year hour:min): 0.-s_-Wave 0:00
+Arrival:     Node =  96603  --  coordinates  (-9.2500,38.6500)
+Number of nodes: Nx=   242   Ny=   482   Nx*Ny=116644   
+Geodetic Distance (in milles): 309.48
+ 
+========================================================================
+                                        Sailed hours    Sailed milles
+Route Optimized:                           17.75            320.12    
+Route Minimum Distance:                   18.40            311.85    
+Route Minimum Distance (without waves):    14.85            311.85    
+
+========================================================================
+

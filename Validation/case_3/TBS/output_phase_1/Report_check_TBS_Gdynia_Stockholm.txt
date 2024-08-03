@@ -1,0 +1,29 @@
+              PHASE I report:     TBS_Gdynia_Stockholm
+=========================================================================
+
+1st Check: OBC Diameter is greater than TBS radius && smaller than distance between paths coordinates
+** number of checks equal number of paths 
+** All values must be "OBC Diameter is acceptable"
+
+path 1: OBC Diameter is acceptable
+
+ 2nd Check: Check OBC Diameter (specially Last OBC in each path) is smaller than TBS radius
+** number of checks equal number of OBCs
+** All Values must be "Last OBC Diameter is acceptable"
+
+OBC number 1:  OBC diameter 2nd Check is acceptable
+OBC number 2:  OBC diameter 2nd Check is acceptable
+OBC number 3:  OBC diameter 2nd Check is acceptable
+OBC number 4:  OBC diameter 2nd Check is acceptable
+
+ 3rd Check: OBC coordinates status (is_land OR is_water) 
+** number of checks equal number of OBCs +1 
+** All values of status must be is_water
+
+Latitude      Longitude       Status    
+  54.800       18.500         ['is_water'] 
+  55.670       18.346         ['is_water'] 
+  56.540       18.189         ['is_water'] 
+  57.410       18.029         ['is_water'] 
+  58.900       18.000         ['is_water'] 
+--------------------End of Report----------------------

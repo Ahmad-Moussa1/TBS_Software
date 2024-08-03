@@ -1,0 +1,24 @@
+              PHASE I report:     TBS_moussa et al., 2024
+=========================================================================
+
+1st Check: OBC Diameter is greater than TBS radius && smaller than distance between paths coordinates
+** number of checks equal number of paths 
+** All values must be "OBC Diameter is acceptable"
+
+path 1: values for degree steps and distance/heading need to be corrected, 
+ these values leads to OBC diameters that exceeding paths distance or smaller than TBS radius
+
+ 2nd Check: Check OBC Diameter (specially Last OBC in each path) is smaller than TBS radius
+** number of checks equal number of OBCs
+** All Values must be "Last OBC Diameter is acceptable"
+
+OBC number 1:  OBC diameter 2nd Check is acceptable
+
+ 3rd Check: OBC coordinates status (is_land OR is_water) 
+** number of checks equal number of OBCs +1 
+** All values of status must be is_water
+
+Latitude      Longitude       Status    
+  40.483        2.500         ['is_water'] 
+  40.983        3.500         ['is_water'] 
+--------------------End of Report----------------------

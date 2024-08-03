@@ -1,0 +1,16 @@
+name_Simu = 'SIMROUTE_Gydnia_Stockholm'
+LonMin = 15.000 
+LonMax = 20.000 
+LatMin = 50.000 
+LatMax = 60.000 
+inc =  1.000 
+nodIni = 86884 
+nodEnd = 161146 
+ARX = ['Waves_0.nc' ,  ] 
+dir_arx = 'storeWaves/'
+time_res = 1 
+t_ini = 0 
+v0 = 17.000 
+WEN_form = 1 
+Lbp = 180 
+DWT = 72000 

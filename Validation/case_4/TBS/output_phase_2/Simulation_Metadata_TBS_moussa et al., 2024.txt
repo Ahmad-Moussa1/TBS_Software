@@ -1,0 +1,43 @@
+              Simulation MetaData:     TBS_moussa et al., 2024
+=========================================================================
+
+
+Simulation name : TBS_moussa et al., 2024
+
+Paths number : 1
+
+Paths coordinates : [(40.4833, 2.5), (40.9833, 3.5)]
+
+Estimated Time Departure : 2023-11-22T22:00:00
+
+Longitude Minimum : [1.5]
+
+Longitude Maximum : [5.5]
+
+Latitude Minimum : [38.45]
+
+Latitude Maximum : [42.15]
+
+Distance per Heading : 8
+
+Reduction factor : 0.3
+
+Gain factor : 1.02
+
+Degree Steps : 10
+
+OBC diameter : 80
+
+Math Model Used : 2
+
+Service Speed : 16
+
+Max. Speed : 20
+
+TBS radius : 20
+
+LBP : 80
+
+DWT : 20000
+
+--------------------End of Report----------------------

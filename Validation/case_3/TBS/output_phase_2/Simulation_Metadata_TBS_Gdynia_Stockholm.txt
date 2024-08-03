@@ -1,0 +1,43 @@
+              Simulation MetaData:     TBS_Gdynia_Stockholm
+=========================================================================
+
+
+Simulation name : TBS_Gdynia_Stockholm
+
+Paths number : 2
+
+Paths coordinates : [(54.8, 18.5), (57.5, 18), (58.9, 18)]
+
+Estimated Time Departure : 2024-02-11T08:00:00
+
+Longitude Minimum : [15]
+
+Longitude Maximum : [20]
+
+Latitude Minimum : [50]
+
+Latitude Maximum : [60]
+
+Distance per Heading : 7.5
+
+Reduction factor : 0.3
+
+Gain factor : 1.05
+
+Degree Steps : 7
+
+OBC diameter : 52.5
+
+Math Model Used : 1
+
+Service Speed : 17
+
+Max. Speed : 22
+
+TBS radius : 22
+
+LBP : 180
+
+DWT : 72000
+
+--------------------End of Report----------------------

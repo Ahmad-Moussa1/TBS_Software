@@ -1,0 +1,43 @@
+              Simulation MetaData:     TBS_Bergen_Papey island
+=========================================================================
+
+
+Simulation name : TBS_Bergen_papey island
+
+Paths number : 1
+
+Paths coordinates : [(60.3968, 5.2), (64.5934, -14.166)]
+
+Estimated Time Departure : 2022-11-20T08:00:00
+
+Longitude Minimum : [-17]
+
+Longitude Maximum : [7]
+
+Latitude Minimum : [59]
+
+Latitude Maximum : [65]
+
+Distance per Heading : 10
+
+Reduction factor : 0.3
+
+Gain factor : 1.4
+
+Degree Steps : 10
+
+OBC diameter : 100
+
+Math Model Used : 1
+
+Service Speed : 31
+
+Max. Speed : 32
+
+TBS radius : 96
+
+LBP : 85
+
+DWT : 11200
+
+--------------------End of Report----------------------

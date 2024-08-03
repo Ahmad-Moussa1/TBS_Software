@@ -1,0 +1,35 @@
+              Simulation MetaData:     TBS_Casablanca_Lisbon
+=========================================================================
+
+
+Simulation name : TBS_Casablanca_Lisbon
+
+Paths number : 2
+
+Paths coordinates : [(33.6667, -7.6), (37, -9.1), (38.662, -9.25)]
+
+Estimated Time Departure : 2023-01-16T22:00:00
+
+Distance per Heading : 7.5
+
+Reduction factor : 0.2
+
+Gain factor : 1.05
+
+Degree Steps : 10
+
+OBC diameter : 75.0
+
+Math Model Used : 1
+
+Service Speed : 21
+
+Max. Speed : 25
+
+TBS radius : 25
+
+LBP : 120
+
+DWT : 23000
+
+--------------------End of Report----------------------

@@ -1,0 +1,19 @@
+              SIMROUTE report:     SIMROUTE_Gydnia_Stockholm
+=========================================================================
+
+Initial Velocity in knots = 17 
+WEN_form = 1 
+Departure:  Node =  86884  --  coordinates  (18.5000,54.7833)
+Departure time (day-month-year hour:min): 0.-s_-Wave 0:00
+Arrival:     Node = 161146  --  coordinates  (18.0000,58.8833)
+Number of nodes: Nx=   302   Ny=   602   Nx*Ny=181804   
+Geodetic Distance (in milles): 246.55
+ 
+========================================================================
+                                        Sailed hours    Sailed milles
+Route Optimized:                           14.86            247.13    
+Route Minimum Distance:                   14.86            247.13    
+Route Minimum Distance (without waves):    14.54            247.13    
+
+========================================================================
+

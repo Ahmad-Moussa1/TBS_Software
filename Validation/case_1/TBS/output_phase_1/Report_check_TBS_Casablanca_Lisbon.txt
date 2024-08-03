@@ -1,0 +1,32 @@
+              PHASE I report:     TBS_Casablanca_Lisbon
+=========================================================================
+
+1st Check: OBC Diameter is greater than TBS radius && smaller than distance between paths coordinates
+** number of checks equal number of paths 
+** All values must be "OBC Diameter is acceptable"
+
+path 1: OBC Diameter is acceptable
+path 2: OBC Diameter is acceptable
+
+ 2nd Check: Check OBC Diameter (specially Last OBC in each path) is smaller than TBS radius
+** number of checks equal number of OBCs
+** All Values must be "Last OBC Diameter is acceptable"
+
+OBC number 1:  OBC diameter 2nd Check is acceptable
+OBC number 2:  OBC diameter 2nd Check is acceptable
+OBC number 3:  OBC diameter 2nd Check is acceptable
+OBC number 4:  OBC diameter 2nd Check is acceptable
+OBC number 5:  OBC diameter 2nd Check is acceptable
+
+ 3rd Check: OBC coordinates status (is_land OR is_water) 
+** number of checks equal number of OBCs +1 
+** All values of status must be is_water
+
+Latitude      Longitude       Status    
+  33.667       -7.600         ['is_water'] 
+  34.841       -8.114         ['is_water'] 
+  36.016       -8.635         ['is_water'] 
+  37.000       -9.100         ['is_water'] 
+  38.246       -9.212         ['is_water'] 
+  38.662       -9.250         ['is_water'] 
+--------------------End of Report----------------------

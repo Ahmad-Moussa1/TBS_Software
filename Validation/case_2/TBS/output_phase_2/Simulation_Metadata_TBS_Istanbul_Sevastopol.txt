@@ -1,0 +1,43 @@
+              Simulation MetaData:     TBS_Istanbul_Sevastopol
+=========================================================================
+
+
+Simulation name : TBS_Istanbul_Sevastopol
+
+Paths number : 1
+
+Paths coordinates : [(41.3, 29.1), (44.6, 33.35)]
+
+Estimated Time Departure : 2024-01-09T22:00:00
+
+Longitude Minimum : [27.37]
+
+Longitude Maximum : [41.96]
+
+Latitude Minimum : [40.86]
+
+Latitude Maximum : [46.8]
+
+Distance per Heading : 13
+
+Reduction factor : 0.3
+
+Gain factor : 1.05
+
+Degree Steps : 7
+
+OBC diameter : 91
+
+Math Model Used : 1
+
+Service Speed : 19
+
+Max. Speed : 25
+
+TBS radius : 75
+
+LBP : 150
+
+DWT : 60000
+
+--------------------End of Report----------------------

@@ -1,0 +1,81 @@
+              PHASE I report:     TBS_Alex_Almeria
+=========================================================================
+
+1st Check: OBC Diameter is greater than TBS radius && smaller than distance between paths coordinates
+** number of checks equal number of paths 
+** All values must be "OBC Diameter is acceptable"
+
+path 1: OBC Diameter is acceptable
+path 2: OBC Diameter is acceptable
+path 3: OBC Diameter is acceptable
+path 4: OBC Diameter is acceptable
+path 5: OBC Diameter is acceptable
+
+ 2nd Check: Check OBC Diameter (specially Last OBC in each path) is smaller than TBS radius
+** number of checks equal number of OBCs
+** All Values must be "Last OBC Diameter is acceptable"
+
+OBC number 1:  OBC diameter 2nd Check is acceptable
+OBC number 2:  OBC diameter 2nd Check is acceptable
+OBC number 3:  OBC diameter 2nd Check is acceptable
+OBC number 4:  OBC diameter 2nd Check is acceptable
+OBC number 5:  OBC diameter 2nd Check is acceptable
+OBC number 6:  OBC diameter 2nd Check is acceptable
+OBC number 7:  OBC diameter 2nd Check is acceptable
+OBC number 8:  OBC diameter 2nd Check is acceptable
+OBC number 9:  OBC diameter 2nd Check is acceptable
+OBC number 10:  OBC diameter 2nd Check is acceptable
+OBC number 11:  OBC diameter 2nd Check is acceptable
+OBC number 12:  OBC diameter 2nd Check is acceptable
+OBC number 13:  OBC diameter 2nd Check is acceptable
+OBC number 14:  OBC diameter 2nd Check is acceptable
+OBC number 15:  OBC diameter 2nd Check is acceptable
+OBC number 16:  OBC diameter 2nd Check is acceptable
+OBC number 17:  OBC diameter 2nd Check is acceptable
+OBC number 18:  OBC diameter 2nd Check is acceptable
+OBC number 19:  OBC diameter 2nd Check is acceptable
+OBC number 20:  OBC diameter 2nd Check is acceptable
+OBC number 21:  OBC diameter 2nd Check is acceptable
+OBC number 22:  OBC diameter 2nd Check is acceptable
+OBC number 23:  OBC diameter 2nd Check is acceptable
+OBC number 24:  OBC diameter 2nd Check is acceptable
+OBC number 25:  OBC diameter 2nd Check is acceptable
+OBC number 26:  OBC diameter 2nd Check is acceptable
+OBC number 27:  OBC diameter 2nd Check is acceptable
+OBC number 28:  OBC diameter 2nd Check is acceptable
+
+ 3rd Check: OBC coordinates status (is_land OR is_water) 
+** number of checks equal number of OBCs +1 
+** All values of status must be is_water
+
+Latitude      Longitude       Status    
+  31.250       29.880         ['is_water'] 
+  31.616       28.728         ['is_water'] 
+  31.983       27.571         ['is_water'] 
+  32.349       26.409         ['is_water'] 
+  32.715       25.243         ['is_water'] 
+  33.081       24.072         ['is_water'] 
+  33.448       22.896         ['is_water'] 
+  33.814       21.715         ['is_water'] 
+  34.179       20.528         ['is_water'] 
+  34.545       19.337         ['is_water'] 
+  34.911       18.140         ['is_water'] 
+  35.277       16.938         ['is_water'] 
+  35.642       15.731         ['is_water'] 
+  35.000       15.000         ['is_water'] 
+  35.676       14.016         ['is_water'] 
+  36.351       13.023         ['is_water'] 
+  37.000       12.000         ['is_water'] 
+  37.564       10.888         ['is_water'] 
+  38.000       10.000         ['is_water'] 
+  37.841        8.685         ['is_water'] 
+  37.682        7.373         ['is_water'] 
+  37.524        6.064         ['is_water'] 
+  37.365        4.758         ['is_water'] 
+  37.206        3.454         ['is_water'] 
+  37.048        2.153         ['is_water'] 
+  36.889        0.855         ['is_water'] 
+  36.400        0.000         ['is_water'] 
+  36.628       -1.274         ['is_water'] 
+  36.830       -2.473         ['is_water'] 
+--------------------End of Report----------------------

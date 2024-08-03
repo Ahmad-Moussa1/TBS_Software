@@ -1,0 +1,16 @@
+name_Simu = 'SIMROUTE_Istanbul_Sevastopol'
+LonMin = 27.370 
+LonMax = 41.960 
+LatMin = 40.860 
+LatMax = 46.800 
+inc =  1.000 
+nodIni = 28167 
+nodEnd = 196806 
+ARX = ['Waves_0.nc' ,  ] 
+dir_arx = 'storeWaves/'
+time_res = 3 
+t_ini = 0 
+v0 = 19.000 
+WEN_form = 1 
+Lbp = 150 
+DWT = 60000 

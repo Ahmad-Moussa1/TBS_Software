@@ -1,0 +1,19 @@
+              SIMROUTE report:     SIMROUTE_moussa_et_al_case
+=========================================================================
+
+Initial Velocity in knots = 16 
+WEN_form = 1 
+Departure:  Node =  29342  --  coordinates  (2.5000,40.4667)
+Departure time (day-month-year hour:min): 0.-s_-Wave 0:00
+Arrival:     Node =  36662  --  coordinates  (3.5000,40.9667)
+Number of nodes: Nx=   242   Ny=   223   Nx*Ny= 53966   
+Geodetic Distance (in milles):  54.48
+ 
+========================================================================
+                                        Sailed hours    Sailed milles
+Route Optimized:                            4.67             55.28    
+Route Minimum Distance:                    4.86             54.48    
+Route Minimum Distance (without waves):     3.41             54.48    
+
+========================================================================
+
